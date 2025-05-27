@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kumari Shalu Suman | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+    section {
+      margin: 20px auto;
+      max-width: 800px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kumari Shalu Suman</h1>
+    <p>MCA Student | Web Developer | C++ Programmer</p>
+  </header>
+  <section>
+    <h2>About Me</h2>
+    <p>I am a passionate computer science student with a strong interest in web development, databases, and algorithmic problem solving.</p>
+
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Order Processing System</strong> - C++ and MySQL based real-world database project</li>
+      <li><strong>Portfolio Website</strong> - Responsive frontend using HTML/CSS</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: your-email@example.com</p>
+    <p>GitHub: <a href="https://github.com/Shalu099" target="_blank">Shalu099</a></p>
+    <p>LeetCode: <a href="https://leetcode.com/shalu_009/" target="_blank">shalu_009</a></p>
+  </section>
+</body>
+</html>
